@@ -28,5 +28,7 @@ This is a single-page resume website built using pure HTML.
 ## Screenshots
 
 ![Resume Screenshot 1st](Screenshot-1.png)
+![Resume Screenshot 2nd](screenshot-2.png)
+![Resume Screenshot 3rd](screenshot-3.png)
 
 
